@@ -1,6 +1,23 @@
-h1 {
-  color: red;
-}
-p {
-    color: blueviolet;
-}
+display: flex;
+width: 1280px;
+flex-direction: column;
+align-items: flex-start;
+color: rgba(0, 0, 0, 0.55);
+text-align: center;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 145%; /* 26.1px */
+letter-spacing: -0.09px;
+width: 800px;
+color: #000;
+text-align: center;
+font-family: Inter;
+font-size: 64px;
+font-style: normal;
+font-weight: 700;
+line-height: 110%; /* 70.4px */
+letter-spacing: -1.6px;
+border-radius: 16px;
+background: url(<path-to-image>) lightgray 50% / cover no-repeat;
